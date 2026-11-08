@@ -1,0 +1,7 @@
+name "genclean"
+description "General code cleaner"
+authors "Daniel Zuncke"
+copyright "Copyright © 2026, Daniel Zuncke"
+license "proprietary"
+
+targetPath "bin"
